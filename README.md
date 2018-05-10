@@ -18,8 +18,9 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 This course is for IT professionals who want to enter the field of data science and are very new to Machine Learning. Familiarity with languages such as R and Python will be invaluable here.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 2.7 and 3.3
-Scikit-learn machine learning framework
+<UL>
+<LI>Python 2.7 and 3.3<br/>
+<LI>Scikit-learn machine learning framework<br/></LI></UL>
 
 ## Related Products
 * [Hands-On Machine Learning with Python and Scikit-Learn [Video]](https://www.packtpub.com/big-data-and-business-intelligence/hands-machine-learning-python-and-scikit-learn-video?utm_source=github&utm_medium=repository&utm_campaign=9781788991056)
